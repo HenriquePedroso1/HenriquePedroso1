@@ -1,6 +1,6 @@
 ## Henrique Pedrosohttps://github.com/HenriquePedroso1/HenriquePedroso1/blob/main/README.md
 
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Henrique Pedroso
 
 **`Desenvolvedor Front-End`**
 
