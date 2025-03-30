@@ -1,4 +1,4 @@
-## Henrique Pedrosohttps://github.com/HenriquePedroso1/HenriquePedroso1/blob/main/README.md
+## Henrique Pedroso
 
 # 👩🏻‍💻 Henrique Pedroso
 
@@ -18,7 +18,7 @@ Linkedin!
 "[Henrique Pedroso](https://www.linkedin.com/in/henriquepedrosotech/)"
 
 GitHub
-"[Henrique Pedroso]([https://www.linkedin.com/in/henriquepedrosotech/](https://github.com/HenriquePedroso1)"
+"[Henrique Pedroso](https://www.linkedin.com/in/henriquepedrosotech/(https://github.com/HenriquePedroso1)"
 
 Vamos construir algo incrível juntos! 🚀
 
