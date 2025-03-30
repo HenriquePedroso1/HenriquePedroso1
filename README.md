@@ -1,51 +1,31 @@
-## Henrique Pedroso
-
-# 👩🏻‍💻 Henrique Pedroso
+# 👨‍💻 Henrique Pedroso
 
 **`Desenvolvedor Front-End`**
 
-Meu nome é Henrique Pedroso, tenho 27 anos e sou natural de Capão Bonito - SP. Sou formado em Economia pela UNESPAR e atualmente estou cursando Análise e Desenvolvimento de Sistemas na IMES. Minha paixão por tecnologia me motivou a migrar de carreira e explorar o universo da programação e da análise de dados.
+Meu nome é Henrique Pedroso, tenho 27 anos e sou natural de Capão Bonito - SP. Sou formado em Economia pela UNESPAR e atualmente estou cursando Análise e Desenvolvimento de Sistemas na IMES. Minha paixão por tecnologia me motivou a migrar de carreira e explorar o universo do desenvolvimento web.
 
-Atualmente, trabalho como assessor de investimentos, mas estou constantemente aprimorando meus conhecimentos em tecnologia. Tenho experiência e interesse em Python, SQL (MSSQL, Azure), JavaScript e Power BI. Meu objetivo é unir minha formação em Economia com a tecnologia para atuar na análise de dados e desenvolvimento de soluções inovadoras.
+Atualmente, trabalho como assessor de investimentos, mas estou constantemente aprimorando meus conhecimentos em tecnologia. Tenho experiência e interesse em Python, Azure, JavaScript, HTML e CSS. Meu objetivo é iniciar no desenvolvimento web e, com o tempo, evoluir para novas áreas dentro da tecnologia.
 
 No GitHub, compartilho meus projetos, estudos e experimentos na área de tecnologia. Sempre busco aprender e me desafiar em novos conceitos e ferramentas.
 
-Se quiser trocar uma ideia sobre tecnologia, economia ou análise de dados, fique à vontade para me chamar!
-
-📫 Conecte-se comigo:
-
-Linkedin!
-"[Henrique Pedroso](https://www.linkedin.com/in/henriquepedrosotech/)"
-
-GitHub
-"[Henrique Pedroso](https://github.com/HenriquePedroso1)"
-
-Vamos construir algo incrível juntos! 🚀
+Se quiser trocar uma ideia sobre tecnologia ou desenvolvimento web, fique à vontade para me chamar!
 
 <p align="left">
-   
-    <a href="https://github.com/HenriquePedroso1?tab=repositories">
+        <a href="https://github.com/HenriquePedroso1?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/HenriquePedroso1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/HenriquePedroso1?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/HenriquePedroso1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
-
-
-
-
-
-    
-
 
 ---
 
@@ -175,15 +155,14 @@ Vamos construir algo incrível juntos! 🚀
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="portifolio-henriquepedroso.vercel.app" 
+    src="https://github-readme-stats.vercel.app/api?username=HenriquePedroso1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="portifolio-henriquepedroso.vercel.app 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePedroso1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
-
