@@ -25,14 +25,8 @@ Vamos construir algo incrível juntos! 🚀
 
 
 
-    <a href="https://github.com/HenriquePedroso1">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            
-        />
-    </a>
-</p>
+    
+
 
 ---
 
