@@ -18,14 +18,14 @@ Linkedin!
 "[Henrique Pedroso](https://www.linkedin.com/in/henriquepedrosotech/)"
 
 GitHub
-"[Henrique Pedroso](https://www.linkedin.com/in/henriquepedrosotech/(https://github.com/HenriquePedroso1)"
+"[Henrique Pedroso](https://github.com/HenriquePedroso1)"
 
 Vamos construir algo incrível juntos! 🚀
 
 
 
 
-    <a href="https://github.com/Larissakich?tab=followers](https://github.com/HenriquePedroso1)">
+    <a href="https://github.com/HenriquePedroso1">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
