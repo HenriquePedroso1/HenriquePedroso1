@@ -113,7 +113,7 @@ Se quiser trocar uma ideia sobre tecnologia ou desenvolvimento web, fique à von
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePedroso1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
